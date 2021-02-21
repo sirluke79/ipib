@@ -2,5 +2,6 @@
 "name": "Italians Pool It Better",
 "description": "A made in Italy Cardano stake pool",
 "ticker": "IPIB",
-"homepage": "https://www.italianspib.it"
+"homepage": "https://www.italianspib.it",
+"test": "51d5881d0095e088a2e934feeeb5f1b9"
 }
