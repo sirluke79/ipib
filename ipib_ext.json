@@ -19,15 +19,5 @@
       "me":     "",
       "server": "VPS hosted in a TIER4 datacenter in Italy, 82Gbps bandwidth, powered by 100% green energy"
     }
-  },
-  "pools": [{
-    "id":             "c8a1648c3fdc0b7d5cd877bad022fb48d619eb04f74c7ec87ba5a6fc",
-    "country":        "IT",
-    "os":             "LINUX",
-    "infrastructure": "",
-    "status":         "act"
-  }],
-  "my-pool-ids": {
-    "0": "c8a1648c3fdc0b7d5cd877bad022fb48d619eb04f74c7ec87ba5a6fc"
   }
 }
