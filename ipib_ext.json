@@ -21,13 +21,13 @@
     }
   },
   "pools": [{
-    "id":             "pool1ezskfrplms9h6hxcw7adqghmfrtpn6cy7ax8ajrm5kn0crvl6sn",
+    "id":             "c8a1648c3fdc0b7d5cd877bad022fb48d619eb04f74c7ec87ba5a6fc",
     "country":        "IT",
     "os":             "LINUX",
     "infrastructure": "",
     "status":         "act"
   }],
   "my-pool-ids": {
-    "0": "pool1ezskfrplms9h6hxcw7adqghmfrtpn6cy7ax8ajrm5kn0crvl6sn"
+    "0": "c8a1648c3fdc0b7d5cd877bad022fb48d619eb04f74c7ec87ba5a6fc"
   }
 }
