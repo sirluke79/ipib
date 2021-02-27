@@ -1,30 +1,33 @@
 {
-    "info": {
-        "url_png_icon_64x64": "",
-        "url_png_logo": "",
-        "location": "Italy",
-        "social": {
-            "twitter_handle": "",
-            "telegram_handle": "IPIB_Pool",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": ""
-        },
-        "company": {},
-        "about": {
-            "me": "",
-            "server": "VPS hosted in a TIER4 datacenter in Italy, 82Gbps bandwidth, powered by 100% green energy",
-            "company": ""
-        },
-        "rss": ""
+  "info": {
+    "url_png_icon_64x64": "",
+    "url_png_logo":       "",
+    "location": "Italy",
+    "social": {
+      "twitter_handle":  "",
+      "telegram_handle": "IPIB_Pool",
+      "facebook_handle": "",
+      "youtube_handle":  "",
+      "twitch_handle":   "",
+      "discord_handle":  "",
+      "github_handle":   ""
     },
-    "my-pool-ids": {
-        "0": "pool1ezskfrplms9h6hxcw7adqghmfrtpn6cy7ax8ajrm5kn0crvl6sn"
+    "contact": {
+      "support": "info@italianspib.it"
     },
-    "when-satured-then-recommend": [],
-    "telegram-admin-handle": {
-        "0": "Sirluke79"
+    "about": {
+      "me":     "",
+      "server": "VPS hosted in a TIER4 datacenter in Italy, 82Gbps bandwidth, powered by 100% green energy"
     }
+  },
+  "pools": [{
+    "id":             "pool1ezskfrplms9h6hxcw7adqghmfrtpn6cy7ax8ajrm5kn0crvl6sn",
+    "country":        "IT",
+    "os":             "LINUX",
+    "infrastructure": "",
+    "status":         "act"
+  }],
+  "my-pool-ids": {
+    "0": "pool1ezskfrplms9h6hxcw7adqghmfrtpn6cy7ax8ajrm5kn0crvl6sn"
+  }
 }
