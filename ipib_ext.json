@@ -1,0 +1,41 @@
+{
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "Modena, Italy",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "775633781",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "VPS hosted in a TIER4 datacenter in Italy, 82Gbps bandwidth, powered by 100% green energy",
+            "company": ""
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": "pool1ezskfrplms9h6hxcw7adqghmfrtpn6cy7ax8ajrm5kn0crvl6sn",
+        "1": ""
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    },
+}
